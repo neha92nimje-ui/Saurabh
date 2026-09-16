@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;InterfacePractice.Example1.java&apos; to &apos;NotificationService.java&apos;&#x0D;&#x0A;- Original project: &apos;Interface_Projects_and_Practice&apos;&#x0D;&#x0A;- Original element: &apos;InterfacePractice.Example1.java&apos;&#x0D;&#x0A;- Renamed element: &apos;InterfacePractice.NotificationService.java&apos;" description="Rename compilation unit &apos;Example1.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;InterfacePractice{Example1.java" name="NotificationService.java" references="false" stamp="1788413199876" version="1.0"/>
+</session>

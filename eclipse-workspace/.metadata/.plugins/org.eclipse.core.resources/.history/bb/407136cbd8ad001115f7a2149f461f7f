@@ -1,0 +1,121 @@
+package com.College;
+
+import com.Student.*;
+import java.util.Scanner;
+
+import com.Student.*;
+
+public class College {
+	static int i;
+	int count = 0;
+	
+	Scanner sc = new Scanner(System.in);
+	Student[] sarr = new Student[i];
+	
+	public void singleStudent() {
+
+		Student s = new Student();
+
+		System.out.print("Enter Student ID : ");
+		s.setId(sc.nextInt());
+		System.out.print("Enter Student Name : ");
+		s.setName(sc.nextLine());
+		System.out.print("Enter Contact Number : ");
+		s.setContact(sc.nextLong());
+		System.out.println("Enter Address : ");
+		s.setAddress(sc.nextLine());
+
+		University u = new University();
+		u.displaySingleStudentDetails(s);
+
+	}
+
+	public void allStudent() {
+
+//		
+//		Student s1 = new Student();
+//		System.out.print("Enter Student ID : ");
+//		s1.setId(sc.nextInt());
+//		sc.nextLine();
+//		System.out.print("Enter Student Name : ");
+//		s1.setName(sc.nextLine());
+//		System.out.print("Enter Contact Number : ");
+//		s1.setContact(sc.nextLong());
+//		sc.nextLine();
+//		System.out.print("Enter Address : ");
+//		s1.setAddress(sc.nextLine());
+//		
+//		Student s2 = new Student();
+//		System.out.print("\nEnter Student ID : ");
+//		s2.setId(sc.nextInt());
+//		sc.nextLine();
+//		System.out.print("Enter Student Name : ");
+//		s2.setName(sc.nextLine());
+//		System.out.print("Enter Contact Number : ");
+//		s2.setContact(sc.nextLong());
+//		sc.nextLine();
+//		System.out.print("Enter Address : ");
+//		s2.setAddress(sc.nextLine());
+//		
+//		Student s3 = new Student();
+//		System.out.print("\nEnter Student ID : ");
+//		s3.setId(sc.nextInt());
+//		sc.nextLine();
+//		System.out.print("Enter Student Name : ");
+//		s3.setName(sc.nextLine());
+//		System.out.print("Enter Contact Number : ");
+//		s3.setContact(sc.nextLong());
+//		sc.nextLine();
+//		System.out.print("Enter Address : ");
+//		s3.setAddress(sc.nextLine());
+//		
+//		Student s4 = new Student();
+//		System.out.print("Enter Student ID : ");
+//		s4.setId(sc.nextInt());
+//		sc.nextLine();
+//		System.out.print("Enter Student Name : ");
+//		s4.setName(sc.nextLine());
+//		System.out.print("Enter Contact Number : ");
+//		s4.setContact(sc.nextLong());
+//		sc.nextLine();
+//		System.out.print("Enter Address : ");
+//		s4.setAddress(sc.nextLine());
+//
+//		Student[] sarr = { s1, s2, s3, s4 };
+//		Student[] sarr = { s1};
+	
+		boolean flag = true;
+		int count1 = 1;
+		while(flag) {
+			Student s = new Student();
+			System.out.print("Enter Student ID : ");
+			s.setId(sc.nextInt());
+			sc.nextLine();
+			System.out.print("Enter Student Name : ");
+			s.setName(sc.nextLine());
+			System.out.print("Enter Contact Number : ");
+			s.setContact(sc.nextLong());
+			sc.nextLine();
+			System.out.print("Enter Address : ");
+			s.setAddress(sc.nextLine());
+			sarr[count] = s;
+			count++;
+			
+			System.out.println("Dou yoy want to add more Students ? \n1. Yes    2. No");
+			int ch = sc.nextInt();
+			
+			if(ch == 1) {
+				count++;
+				College.i++;
+			}else if(ch == 2) {
+				flag = false;
+			}
+		}
+		
+
+		University u = new University();
+		u.displayAllStudentsDetails(sarr);
+
+	}
+
+}

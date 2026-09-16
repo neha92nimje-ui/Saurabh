@@ -1,0 +1,13 @@
+package com.Employee;
+
+public class Employee {
+
+	private int eid;
+	private String ename;
+	private double salary;
+	private String Designation;
+	private long contact;
+	private String address;
+
+	
+}

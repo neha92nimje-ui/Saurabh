@@ -1,0 +1,958 @@
+2026-05-04 08:10:40.756: [INFO] OnDoneLoading sync enabled: 0
+2026-07-18 14:42:47.318: [INFO] OnDoneLoading sync enabled: 0
+2026-07-18 14:43:28.879: [INFO] OnDoneLoading sync enabled: 0
+2026-07-18 14:45:23.783: [INFO] OnDoneLoading sync enabled: 0
+2026-07-22 14:15:43.372: [INFO] OnDoneLoading sync enabled: 0
+2026-07-23 09:06:20.363: [INFO] OnDoneLoading sync enabled: 0
+2026-07-23 13:38:59.831: [INFO] OnDoneLoading sync enabled: 0
+2026-07-23 13:50:32.240: [INFO] OnDoneLoading sync enabled: 0
+2026-07-23 13:57:06.448: [INFO] OnDoneLoading sync enabled: 0
+2026-07-24 04:55:28.360: [INFO] OnDoneLoading sync enabled: 0
+2026-07-24 05:11:36.761: [INFO] OnDoneLoading sync enabled: 0
+2026-07-24 07:17:58.217: [INFO] OnDoneLoading sync enabled: 0
+2026-07-27 08:17:20.084: [INFO] OnDoneLoading sync enabled: 0
+2026-07-27 13:08:15.048: [INFO] OnDoneLoading sync enabled: 0
+2026-07-28 04:34:55.575: [INFO] OnDoneLoading sync enabled: 0
+2026-07-28 04:49:06.003: [INFO] OnDoneLoading sync enabled: 0
+2026-07-29 04:49:06.432: [INFO] OnDoneLoading sync enabled: 0
+2026-07-31 04:44:47.774: [INFO] OnDoneLoading sync enabled: 0
+2026-08-02 11:42:27.188: [INFO] OnDoneLoading sync enabled: 0
+2026-08-02 11:42:30.573: [INFO] OnDoneLoading sync enabled: 0
+2026-08-02 11:43:53.817: [INFO] OnDoneLoading sync enabled: 0
+2026-08-02 11:44:42.664: [INFO] OnDoneLoading sync enabled: 0
+2026-08-02 12:09:51.760: [INFO] OnDoneLoading sync enabled: 0
+2026-08-04 04:29:29.881: [INFO] OnDoneLoading sync enabled: 0
+2026-08-05 12:26:52.825: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-05 12:26:52.825: [INFO] Profiles total count: 1
+2026-08-05 12:26:52.826: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-05 12:26:52.826: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-05 12:26:52.826: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-05 12:26:52.826: [INFO] OnDoneLoading sync enabled: 0
+2026-08-05 12:26:52.826: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-05 12:26:52.826: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-05 12:26:52.826: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-05 14:30:05.619: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 03:57:56.817: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 03:57:56.817: [INFO] Profiles total count: 1
+2026-08-06 03:57:56.818: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 03:57:56.818: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 03:57:56.818: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 03:57:56.818: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 03:57:56.818: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 03:57:56.818: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 03:57:56.818: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 03:58:00.864: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 03:58:32.504: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 03:58:32.504: [INFO] Profiles total count: 1
+2026-08-06 03:58:32.505: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 03:58:32.505: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 03:58:32.505: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 03:58:32.505: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 03:58:32.505: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 03:58:32.505: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 03:58:32.505: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 04:20:49.042: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 04:21:11.528: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 04:21:11.528: [INFO] Profiles total count: 1
+2026-08-06 04:21:11.529: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 04:21:11.529: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 04:21:11.529: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 04:21:11.529: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 04:21:11.529: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 04:21:11.529: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 04:21:11.529: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 05:22:05.498: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 09:35:44.985: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 09:35:44.985: [INFO] Profiles total count: 1
+2026-08-06 09:35:44.986: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 09:35:44.986: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 09:35:44.986: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 09:35:44.986: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 09:35:44.986: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 09:35:44.986: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 09:35:44.986: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 09:35:55.399: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 09:36:04.614: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 09:36:04.614: [INFO] Profiles total count: 1
+2026-08-06 09:36:04.615: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 09:36:04.615: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 09:36:04.615: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 09:36:04.615: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 09:36:04.615: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 09:36:04.615: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 09:36:04.615: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 09:36:09.490: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 09:39:01.000: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 09:39:01.000: [INFO] Profiles total count: 1
+2026-08-06 09:39:01.001: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 09:39:01.001: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 09:39:01.001: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 09:39:01.001: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 09:39:01.001: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 09:39:01.001: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 09:39:01.001: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 09:42:44.048: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 09:42:44.298: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 09:42:44.298: [INFO] Profiles total count: 1
+2026-08-06 09:42:44.298: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 09:42:44.298: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 09:42:44.298: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-06 09:42:44.298: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 09:42:44.298: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 09:42:44.298: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 09:42:44.298: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-07 04:15:15.899: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-07 04:15:17.056: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-07 04:15:17.056: [INFO] Profiles total count: 1
+2026-08-07 04:15:17.056: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-07 04:15:17.056: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-07 04:15:17.056: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-07 04:15:17.056: [INFO] OnDoneLoading sync enabled: 0
+2026-08-07 04:15:17.056: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-07 04:15:17.056: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-07 04:15:17.056: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-07 04:15:19.588: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-07 04:20:21.941: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-07 04:20:21.941: [INFO] Profiles total count: 1
+2026-08-07 04:20:21.941: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-07 04:20:21.941: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-07 04:20:21.941: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-07 04:20:21.941: [INFO] OnDoneLoading sync enabled: 0
+2026-08-07 04:20:21.941: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-07 04:20:21.941: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-07 04:20:21.941: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-07 10:04:51.616: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-07 10:41:34.142: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-07 10:41:34.142: [INFO] Profiles total count: 1
+2026-08-07 10:41:34.143: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-07 10:41:34.143: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-07 10:41:34.143: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-07 10:41:34.143: [INFO] OnDoneLoading sync enabled: 0
+2026-08-07 10:41:34.143: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-07 10:41:34.143: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-07 10:41:34.143: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-07 10:42:36.269: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-07 10:43:43.182: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-07 10:43:43.182: [INFO] Profiles total count: 1
+2026-08-07 10:43:43.183: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-07 10:43:43.183: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-07 10:43:43.183: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-07 10:43:43.183: [INFO] OnDoneLoading sync enabled: 0
+2026-08-07 10:43:43.183: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-07 10:43:43.183: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-07 10:43:43.183: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-07 10:46:18.300: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-07 10:50:53.072: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-07 10:50:53.072: [INFO] Profiles total count: 1
+2026-08-07 10:50:53.072: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-07 10:50:53.072: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-07 10:50:53.073: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-07 10:50:53.073: [INFO] OnDoneLoading sync enabled: 0
+2026-08-07 10:50:53.073: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-07 10:50:53.073: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-07 10:50:53.073: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-07 10:53:41.522: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-07 10:53:41.756: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-07 10:53:41.756: [INFO] Profiles total count: 1
+2026-08-07 10:53:41.757: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-07 10:53:41.757: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-07 10:53:41.757: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-07 10:53:41.757: [INFO] OnDoneLoading sync enabled: 0
+2026-08-07 10:53:41.757: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-07 10:53:41.757: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-07 10:53:41.757: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 08:45:30.580: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 09:51:15.628: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 09:51:15.628: [INFO] Profiles total count: 1
+2026-08-10 09:51:15.628: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 09:51:15.628: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 09:51:15.628: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 09:51:15.628: [INFO] OnDoneLoading sync enabled: 0
+2026-08-10 09:51:15.628: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-10 09:51:15.628: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-10 09:51:15.628: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 11:59:29.142: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 12:07:36.156: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 12:07:36.156: [INFO] Profiles total count: 1
+2026-08-10 12:07:36.157: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 12:07:36.157: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 12:07:36.157: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 12:07:36.157: [INFO] OnDoneLoading sync enabled: 0
+2026-08-10 12:07:36.157: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-10 12:07:36.157: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-10 12:07:36.157: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 12:07:36.376: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 12:09:02.289: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 12:09:02.289: [INFO] Profiles total count: 1
+2026-08-10 12:09:02.289: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 12:09:02.289: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 12:09:02.290: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 12:09:02.290: [INFO] OnDoneLoading sync enabled: 0
+2026-08-10 12:09:02.290: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-10 12:09:02.290: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-10 12:09:02.290: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 12:09:02.518: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 12:16:32.335: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 12:16:32.335: [INFO] Profiles total count: 1
+2026-08-10 12:16:32.336: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 12:16:32.336: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 12:16:32.336: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 12:16:32.336: [INFO] OnDoneLoading sync enabled: 0
+2026-08-10 12:16:32.336: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-10 12:16:32.336: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-10 12:16:32.336: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 12:22:21.934: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 12:31:35.808: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 12:31:35.808: [INFO] Profiles total count: 1
+2026-08-10 12:31:35.809: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 12:31:35.809: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 12:31:35.809: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 12:31:35.809: [INFO] OnDoneLoading sync enabled: 0
+2026-08-10 12:31:35.809: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-10 12:31:35.809: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-10 12:31:35.809: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 12:37:49.533: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 12:37:49.706: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 12:37:49.706: [INFO] Profiles total count: 1
+2026-08-10 12:37:49.706: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 12:37:49.706: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 12:37:49.706: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 12:37:49.706: [INFO] OnDoneLoading sync enabled: 0
+2026-08-10 12:37:49.706: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-10 12:37:49.706: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-10 12:37:49.706: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 12:45:49.513: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 12:46:11.830: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 12:46:11.830: [INFO] Profiles total count: 1
+2026-08-10 12:46:11.831: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 12:46:11.831: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 12:46:11.832: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-10 12:46:11.832: [INFO] OnDoneLoading sync enabled: 0
+2026-08-10 12:46:11.832: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-10 12:46:11.832: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-10 12:46:11.832: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 04:17:38.839: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 04:37:47.747: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 04:37:47.747: [INFO] Profiles total count: 1
+2026-08-13 04:37:47.748: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-13 04:37:47.748: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 04:37:47.748: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-13 04:37:47.748: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 04:37:47.748: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 04:37:47.748: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 04:37:47.748: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 04:37:51.657: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 04:40:31.210: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 04:40:31.210: [INFO] Profiles total count: 1
+2026-08-13 04:40:31.211: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-13 04:40:31.211: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 04:40:31.211: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-13 04:40:31.211: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 04:40:31.211: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 04:40:31.211: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 04:40:31.211: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 13:14:08.134: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 10:14:34.733: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 10:14:34.733: [INFO] Profiles total count: 1
+2026-08-14 10:14:34.734: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-14 10:14:34.734: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 10:14:34.734: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-14 10:14:34.734: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 10:14:34.734: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 10:14:34.734: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 10:14:34.734: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 14:01:44.540: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 04:30:55.136: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 04:30:55.136: [INFO] Profiles total count: 1
+2026-08-17 04:30:55.136: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-17 04:30:55.136: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 04:30:55.137: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-17 04:30:55.137: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 04:30:55.137: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 04:30:55.137: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 04:30:55.137: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 11:25:14.715: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 13:29:59.430: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 13:29:59.430: [INFO] Profiles total count: 1
+2026-08-17 13:29:59.430: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-17 13:29:59.430: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 13:29:59.431: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-17 13:29:59.431: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 13:29:59.431: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 13:29:59.431: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 13:29:59.431: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 13:30:05.375: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 13:08:00.362: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 13:08:00.362: [INFO] Profiles total count: 1
+2026-08-18 13:08:00.363: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-18 13:08:00.363: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 13:08:00.363: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-18 13:08:00.363: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 13:08:00.363: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 13:08:00.363: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 13:08:00.363: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 04:33:35.633: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 04:40:24.372: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 04:40:24.372: [INFO] Profiles total count: 1
+2026-08-19 04:40:24.373: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-19 04:40:24.373: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 04:40:24.373: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-19 04:40:24.374: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 04:40:24.374: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 04:40:24.374: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 04:40:24.374: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 13:33:26.992: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 03:34:35.219: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 03:34:35.219: [INFO] Profiles total count: 1
+2026-08-20 03:34:35.220: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-20 03:34:35.220: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 03:34:35.220: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-20 03:34:35.220: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 03:34:35.220: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 03:34:35.220: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 03:34:35.220: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 04:41:46.004: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 04:45:38.852: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 04:45:38.852: [INFO] Profiles total count: 1
+2026-08-20 04:45:38.853: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-20 04:45:38.853: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 04:45:38.853: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-20 04:45:38.853: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 04:45:38.853: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 04:45:38.853: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 04:45:38.853: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 08:24:35.921: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 08:29:20.506: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 08:29:20.506: [INFO] Profiles total count: 1
+2026-08-20 08:29:20.507: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-20 08:29:20.507: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 08:29:20.507: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-20 08:29:20.507: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 08:29:20.507: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 08:29:20.507: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 08:29:20.507: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 08:30:30.465: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 08:31:38.574: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 08:31:38.574: [INFO] Profiles total count: 1
+2026-08-20 08:31:38.575: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-20 08:31:38.575: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 08:31:38.575: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-20 08:31:38.575: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 08:31:38.575: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 08:31:38.575: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 08:31:38.575: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 08:56:10.234: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 09:14:12.793: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 09:14:12.793: [INFO] Profiles total count: 1
+2026-08-20 09:14:12.794: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-20 09:14:12.794: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 09:14:12.794: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-20 09:14:12.794: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 09:14:12.794: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 09:14:12.794: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 09:14:12.794: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 12:57:08.932: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 12:57:21.487: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 12:57:21.487: [INFO] Profiles total count: 1
+2026-08-20 12:57:21.488: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-20 12:57:21.488: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 12:57:21.488: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-20 12:57:21.488: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 12:57:21.488: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 12:57:21.488: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 12:57:21.488: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-22 10:55:41.824: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-22 10:55:41.824: [INFO] Profiles total count: 1
+2026-08-22 10:55:41.824: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-22 10:55:41.824: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-22 10:55:41.825: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-22 10:55:41.825: [INFO] OnDoneLoading sync enabled: 0
+2026-08-22 10:55:41.825: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-22 10:55:41.825: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-22 10:55:41.825: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-22 10:56:17.128: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-22 11:28:52.394: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-22 11:28:52.394: [INFO] Profiles total count: 1
+2026-08-22 11:28:52.395: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-22 11:28:52.395: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-22 11:28:52.395: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-22 11:28:52.395: [INFO] OnDoneLoading sync enabled: 0
+2026-08-22 11:28:52.395: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-22 11:28:52.395: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-22 11:28:52.395: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-29 04:30:36.780: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-29 04:30:36.780: [INFO] Profiles total count: 1
+2026-08-29 04:30:36.780: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-29 04:30:36.780: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-29 04:30:36.780: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-29 04:30:36.780: [INFO] OnDoneLoading sync enabled: 0
+2026-08-29 04:30:36.780: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-29 04:30:36.780: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-29 04:30:36.780: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-31 03:38:20.881: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-31 03:38:20.881: [INFO] Profiles total count: 1
+2026-08-31 03:38:20.882: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-31 03:38:20.882: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-31 03:38:20.882: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-08-31 03:38:20.882: [INFO] OnDoneLoading sync enabled: 0
+2026-08-31 03:38:20.882: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-31 03:38:20.882: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-31 03:38:20.882: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-31 04:19:52.433: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-01 04:07:24.022: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 04:07:24.022: [INFO] Profiles total count: 1
+2026-09-01 04:07:24.023: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-01 04:07:24.023: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 04:07:24.023: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-01 04:07:24.023: [INFO] OnDoneLoading sync enabled: 0
+2026-09-01 04:07:24.023: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-01 04:07:24.023: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-01 04:07:24.023: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-03 04:18:04.369: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-03 04:18:04.369: [INFO] Profiles total count: 1
+2026-09-03 04:18:04.369: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-03 04:18:04.369: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-03 04:18:04.369: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-03 04:18:04.369: [INFO] OnDoneLoading sync enabled: 0
+2026-09-03 04:18:04.369: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-03 04:18:04.369: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-03 04:18:04.369: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-03 04:18:32.823: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-03 04:19:25.385: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-03 04:19:25.385: [INFO] Profiles total count: 1
+2026-09-03 04:19:25.385: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-03 04:19:25.385: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-03 04:19:25.385: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-03 04:19:25.385: [INFO] OnDoneLoading sync enabled: 0
+2026-09-03 04:19:25.385: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-03 04:19:25.385: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-03 04:19:25.385: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 04:46:56.949: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 05:07:49.151: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 05:07:49.151: [INFO] Profiles total count: 1
+2026-09-04 05:07:49.151: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 05:07:49.151: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 05:07:49.151: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 05:07:49.151: [INFO] OnDoneLoading sync enabled: 0
+2026-09-04 05:07:49.151: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-04 05:07:49.151: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-04 05:07:49.151: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 05:07:49.299: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 05:07:58.460: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 05:07:58.460: [INFO] Profiles total count: 1
+2026-09-04 05:07:58.460: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 05:07:58.460: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 05:07:58.460: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 05:07:58.460: [INFO] OnDoneLoading sync enabled: 0
+2026-09-04 05:07:58.460: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-04 05:07:58.460: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-04 05:07:58.460: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 05:07:58.593: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 05:08:54.034: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 05:08:54.034: [INFO] Profiles total count: 1
+2026-09-04 05:08:54.034: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 05:08:54.034: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 05:08:54.034: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 05:08:54.034: [INFO] OnDoneLoading sync enabled: 0
+2026-09-04 05:08:54.034: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-04 05:08:54.034: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-04 05:08:54.034: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 05:09:04.939: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 05:10:57.063: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 05:10:57.063: [INFO] Profiles total count: 1
+2026-09-04 05:10:57.063: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 05:10:57.063: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 05:10:57.063: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 05:10:57.063: [INFO] OnDoneLoading sync enabled: 0
+2026-09-04 05:10:57.063: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-04 05:10:57.063: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-04 05:10:57.064: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 05:13:40.788: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 05:13:40.962: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 05:13:40.962: [INFO] Profiles total count: 1
+2026-09-04 05:13:40.962: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 05:13:40.962: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 05:13:40.962: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 05:13:40.962: [INFO] OnDoneLoading sync enabled: 0
+2026-09-04 05:13:40.962: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-04 05:13:40.962: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-04 05:13:40.962: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 06:15:42.021: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 06:16:29.771: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 06:16:29.771: [INFO] Profiles total count: 1
+2026-09-04 06:16:29.771: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 06:16:29.771: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 06:16:29.771: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 06:16:29.771: [INFO] OnDoneLoading sync enabled: 0
+2026-09-04 06:16:29.771: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-04 06:16:29.771: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-04 06:16:29.771: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 07:41:52.384: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 07:44:44.176: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 07:44:44.176: [INFO] Profiles total count: 1
+2026-09-04 07:44:44.176: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 07:44:44.176: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-04 07:44:44.176: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-04 07:44:44.176: [INFO] OnDoneLoading sync enabled: 0
+2026-09-04 07:44:44.176: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-04 07:44:44.176: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-04 07:44:44.176: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-04 17:52:16.320: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-05 03:39:48.651: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-05 03:39:48.651: [INFO] Profiles total count: 1
+2026-09-05 03:39:48.651: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-05 03:39:48.651: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-05 03:39:48.651: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-05 03:39:48.651: [INFO] OnDoneLoading sync enabled: 0
+2026-09-05 03:39:48.651: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-05 03:39:48.651: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-05 03:39:48.651: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-05 03:41:08.066: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-05 03:41:08.146: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-05 03:41:08.146: [INFO] Profiles total count: 1
+2026-09-05 03:41:08.146: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-05 03:41:08.146: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-05 03:41:08.146: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-05 03:41:08.146: [INFO] OnDoneLoading sync enabled: 0
+2026-09-05 03:41:08.146: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-05 03:41:08.146: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-05 03:41:08.146: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-05 03:48:36.631: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-08 04:30:58.290: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-08 04:30:58.290: [INFO] Profiles total count: 1
+2026-09-08 04:30:58.290: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-08 04:30:58.290: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-08 04:30:58.290: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-08 04:30:58.290: [INFO] OnDoneLoading sync enabled: 0
+2026-09-08 04:30:58.290: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-08 04:30:58.290: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-08 04:30:58.290: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 03:09:06.733: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 04:57:22.398: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 04:57:22.398: [INFO] Profiles total count: 1
+2026-09-09 04:57:22.398: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-09 04:57:22.398: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 04:57:22.398: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-09 04:57:22.398: [INFO] OnDoneLoading sync enabled: 0
+2026-09-09 04:57:22.398: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-09 04:57:22.398: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-09 04:57:22.398: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 04:57:37.250: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 05:00:33.280: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 05:00:33.280: [INFO] Profiles total count: 1
+2026-09-09 05:00:33.280: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-09 05:00:33.280: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 05:00:33.280: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-09 05:00:33.280: [INFO] OnDoneLoading sync enabled: 0
+2026-09-09 05:00:33.280: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-09 05:00:33.280: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-09 05:00:33.280: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 11:39:21.027: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 11:39:21.027: [INFO] Profiles total count: 1
+2026-09-09 11:39:21.028: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-09 11:39:21.028: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 11:39:21.028: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-09 11:39:21.028: [INFO] OnDoneLoading sync enabled: 0
+2026-09-09 11:39:21.028: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-09 11:39:21.028: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-09 11:39:21.028: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 12:07:55.993: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 12:10:33.417: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 12:10:33.417: [INFO] Profiles total count: 1
+2026-09-09 12:10:33.417: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-09 12:10:33.417: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 12:10:33.417: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-09 12:10:33.417: [INFO] OnDoneLoading sync enabled: 0
+2026-09-09 12:10:33.417: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-09 12:10:33.417: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-09 12:10:33.417: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 12:20:59.632: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 12:20:59.808: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 12:20:59.808: [INFO] Profiles total count: 1
+2026-09-09 12:20:59.808: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-09 12:20:59.808: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 12:20:59.808: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-09 12:20:59.808: [INFO] OnDoneLoading sync enabled: 0
+2026-09-09 12:20:59.808: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-09 12:20:59.808: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-09 12:20:59.808: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 02:39:28.957: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 02:39:43.917: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 02:39:43.917: [INFO] Profiles total count: 1
+2026-09-10 02:39:43.917: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 02:39:43.917: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 02:39:43.917: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 02:39:43.917: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 02:39:43.917: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 02:39:43.917: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 02:39:43.917: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 02:54:00.425: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 02:54:21.394: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 02:54:21.394: [INFO] Profiles total count: 1
+2026-09-10 02:54:21.394: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 02:54:21.394: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 02:54:21.394: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 02:54:21.394: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 02:54:21.394: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 02:54:21.394: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 02:54:21.394: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 02:54:26.761: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 02:54:33.421: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 02:54:33.421: [INFO] Profiles total count: 1
+2026-09-10 02:54:33.421: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 02:54:33.421: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 02:54:33.421: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 02:54:33.421: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 02:54:33.421: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 02:54:33.421: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 02:54:33.421: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 08:00:58.737: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 08:01:03.476: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 08:01:03.476: [INFO] Profiles total count: 1
+2026-09-10 08:01:03.476: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 08:01:03.476: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 08:01:03.476: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 08:01:03.476: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 08:01:03.476: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 08:01:03.476: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 08:01:03.476: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:17:05.360: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:17:05.360: [INFO] Profiles total count: 1
+2026-09-10 10:17:05.360: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 10:17:05.360: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:17:05.360: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 10:17:05.360: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 10:17:05.360: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 10:17:05.360: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 10:17:05.360: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:18:26.430: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:20:52.424: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:20:52.424: [INFO] Profiles total count: 1
+2026-09-10 10:20:52.425: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 10:20:52.425: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:20:52.425: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 10:20:52.425: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 10:20:52.425: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 10:20:52.425: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 10:20:52.425: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:39:27.352: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:39:27.574: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:39:27.574: [INFO] Profiles total count: 1
+2026-09-10 10:39:27.574: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 10:39:27.574: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:39:27.574: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 10:39:27.574: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 10:39:27.574: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 10:39:27.574: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 10:39:27.574: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:41:55.550: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:44:29.817: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:44:29.817: [INFO] Profiles total count: 1
+2026-09-10 10:44:29.817: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 10:44:29.817: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:44:29.817: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 10:44:29.817: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 10:44:29.817: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 10:44:29.817: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 10:44:29.817: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:46:05.901: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:46:06.089: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:46:06.089: [INFO] Profiles total count: 1
+2026-09-10 10:46:06.089: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 10:46:06.089: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:46:06.089: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-10 10:46:06.089: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 10:46:06.089: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 10:46:06.089: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 10:46:06.089: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 14:54:44.306: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 03:31:57.090: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 03:31:57.090: [INFO] Profiles total count: 1
+2026-09-11 03:31:57.090: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-11 03:31:57.091: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 03:31:57.091: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-11 03:31:57.091: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 03:31:57.091: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 03:31:57.091: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 03:31:57.091: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 03:33:16.314: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 03:33:16.435: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 03:33:16.435: [INFO] Profiles total count: 1
+2026-09-11 03:33:16.435: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-11 03:33:16.435: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 03:33:16.435: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-11 03:33:16.435: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 03:33:16.435: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 03:33:16.435: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 03:33:16.435: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 03:34:23.563: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 03:34:38.040: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 03:34:38.040: [INFO] Profiles total count: 1
+2026-09-11 03:34:38.040: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-11 03:34:38.040: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 03:34:38.040: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-18T04:39:29.677Z
+2026-09-11 03:34:38.040: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 03:34:38.040: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 03:34:38.040: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 03:34:38.040: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 03:34:40.667: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 03:39:29.068: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 03:39:29.068: [INFO] Profiles total count: 1
+2026-09-11 03:39:29.068: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 03:39:29.068: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 03:39:29.068: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 03:39:29.068: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 03:39:29.068: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 03:39:29.068: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 03:39:29.068: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 07:55:06.500: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 08:09:04.334: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 08:09:04.334: [INFO] Profiles total count: 1
+2026-09-11 08:09:04.334: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 08:09:04.334: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 08:09:04.334: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 08:09:04.334: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 08:09:04.334: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 08:09:04.334: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 08:09:04.334: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 09:25:19.793: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 10:48:25.063: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 10:48:25.063: [INFO] Profiles total count: 1
+2026-09-11 10:48:25.063: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 10:48:25.063: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 10:48:25.063: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 10:48:25.063: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 10:48:25.063: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 10:48:25.063: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 10:48:25.063: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 10:48:39.376: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 10:49:39.947: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 10:49:39.947: [INFO] Profiles total count: 1
+2026-09-11 10:49:39.947: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 10:49:39.948: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 10:49:39.948: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 10:49:39.948: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 10:49:39.948: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 10:49:39.948: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 10:49:39.948: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 10:49:40.165: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 11:16:23.977: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 11:16:23.977: [INFO] Profiles total count: 1
+2026-09-11 11:16:23.977: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 11:16:23.977: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 11:16:23.977: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 11:16:23.977: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 11:16:23.977: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 11:16:23.977: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 11:16:23.977: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 12:17:24.641: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 12:18:47.988: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 12:18:47.988: [INFO] Profiles total count: 1
+2026-09-11 12:18:47.988: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 12:18:47.988: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 12:18:47.988: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 12:18:47.988: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 12:18:47.988: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 12:18:47.988: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 12:18:47.988: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 14:04:12.054: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 14:17:58.406: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 14:17:58.406: [INFO] Profiles total count: 1
+2026-09-11 14:17:58.406: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 14:17:58.406: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 14:17:58.406: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 14:17:58.406: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 14:17:58.406: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 14:17:58.406: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 14:17:58.406: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 14:33:16.337: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 14:36:32.978: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 14:36:32.978: [INFO] Profiles total count: 1
+2026-09-11 14:36:32.979: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 14:36:32.979: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 14:36:32.979: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-11 14:36:32.979: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 14:36:32.979: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 14:36:32.979: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 14:36:32.979: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 14:53:03.972: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 03:36:27.255: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 03:36:27.255: [INFO] Profiles total count: 1
+2026-09-12 03:36:27.255: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-12 03:36:27.255: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 03:36:27.255: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-12 03:36:27.255: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 03:36:27.255: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 03:36:27.255: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 03:36:27.255: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 06:36:36.363: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 06:37:17.474: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 06:37:17.474: [INFO] Profiles total count: 1
+2026-09-12 06:37:17.474: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-12 06:37:17.474: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 06:37:17.474: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-12 06:37:17.474: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 06:37:17.474: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 06:37:17.475: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 06:37:17.475: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 10:32:47.040: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 10:38:06.022: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 10:38:06.022: [INFO] Profiles total count: 1
+2026-09-12 10:38:06.022: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-12 10:38:06.022: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 10:38:06.022: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-12 10:38:06.022: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 10:38:06.022: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 10:38:06.022: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 10:38:06.022: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:04:10.370: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 04:01:18.904: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 04:01:18.904: [INFO] Profiles total count: 1
+2026-09-13 04:01:18.904: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 04:01:18.904: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 04:01:18.904: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 04:01:18.904: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 04:01:18.904: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 04:01:18.904: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 04:01:18.904: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 04:01:43.222: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 04:03:49.117: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 04:03:49.117: [INFO] Profiles total count: 1
+2026-09-13 04:03:49.117: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 04:03:49.117: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 04:03:49.117: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 04:03:49.117: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 04:03:49.117: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 04:03:49.117: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 04:03:49.117: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 04:26:57.429: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 08:43:04.826: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 08:43:04.826: [INFO] Profiles total count: 1
+2026-09-13 08:43:04.826: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 08:43:04.826: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 08:43:04.826: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 08:43:04.826: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 08:43:04.826: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 08:43:04.826: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 08:43:04.826: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 11:41:06.183: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 11:42:34.701: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 11:42:34.701: [INFO] Profiles total count: 1
+2026-09-13 11:42:34.701: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 11:42:34.701: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 11:42:34.701: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 11:42:34.701: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 11:42:34.701: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 11:42:34.701: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 11:42:34.701: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 11:44:18.707: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 11:49:16.629: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 11:49:16.629: [INFO] Profiles total count: 1
+2026-09-13 11:49:16.629: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 11:49:16.629: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 11:49:16.629: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 11:49:16.629: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 11:49:16.629: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 11:49:16.629: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 11:49:16.629: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 11:51:39.747: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 11:56:51.026: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 11:56:51.026: [INFO] Profiles total count: 1
+2026-09-13 11:56:51.027: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 11:56:51.027: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 11:56:51.027: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 11:56:51.027: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 11:56:51.027: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 11:56:51.027: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 11:56:51.027: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 11:58:24.034: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 12:00:29.659: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 12:00:29.659: [INFO] Profiles total count: 1
+2026-09-13 12:00:29.659: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 12:00:29.659: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 12:00:29.659: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 12:00:29.659: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 12:00:29.659: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 12:00:29.659: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 12:00:29.659: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 12:00:46.112: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 12:02:42.346: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 12:02:42.346: [INFO] Profiles total count: 1
+2026-09-13 12:02:42.346: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 12:02:42.346: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 12:02:42.346: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 12:02:42.346: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 12:02:42.346: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 12:02:42.346: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 12:02:42.346: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 12:11:49.822: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 12:16:21.095: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 12:16:21.095: [INFO] Profiles total count: 1
+2026-09-13 12:16:21.095: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 12:16:21.095: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 12:16:21.095: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 12:16:21.095: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 12:16:21.096: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 12:16:21.096: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 12:16:21.096: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 12:16:32.082: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 12:16:32.260: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 12:16:32.260: [INFO] Profiles total count: 1
+2026-09-13 12:16:32.260: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 12:16:32.260: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 12:16:32.260: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-13 12:16:32.260: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 12:16:32.260: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 12:16:32.260: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 12:16:32.260: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-15 04:34:18.125: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-15 04:34:59.354: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-15 04:34:59.354: [INFO] Profiles total count: 1
+2026-09-15 04:34:59.354: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-15 04:34:59.354: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-15 04:34:59.354: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-15 04:34:59.355: [INFO] OnDoneLoading sync enabled: 0
+2026-09-15 04:34:59.355: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-15 04:34:59.355: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-15 04:34:59.355: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-15 04:36:11.175: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-15 04:38:28.493: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-15 04:38:28.493: [INFO] Profiles total count: 1
+2026-09-15 04:38:28.493: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-15 04:38:28.493: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-15 04:38:28.493: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-15 04:38:28.493: [INFO] OnDoneLoading sync enabled: 0
+2026-09-15 04:38:28.493: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-15 04:38:28.493: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-15 04:38:28.493: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 04:30:27.333: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 04:32:55.094: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 04:32:55.094: [INFO] Profiles total count: 1
+2026-09-16 04:32:55.094: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-16 04:32:55.094: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 04:32:55.094: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-16 04:32:55.094: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 04:32:55.094: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 04:32:55.094: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 04:32:55.094: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 04:38:21.273: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 08:52:33.121: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 08:52:33.121: [INFO] Profiles total count: 1
+2026-09-16 08:52:33.121: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-16 08:52:33.121: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 08:52:33.121: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-16 08:52:33.121: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 08:52:33.121: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 08:52:33.121: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 08:52:33.121: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 08:52:40.318: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 08:57:25.631: [INFO] CurrentProfilePath: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 08:57:25.631: [INFO] Profiles total count: 1
+2026-09-16 08:57:25.631: [INFO] Profile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-16 08:57:25.631: [INFO] LastUsedProfileDir: C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 08:57:25.631: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Chetan\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-11T03:37:11.879Z
+2026-09-16 08:57:25.631: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 08:57:25.631: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 08:57:25.631: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 08:57:25.631: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 13:20:25.252: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

@@ -1,0 +1,20 @@
+package com.College;
+import com.Student.*;
+public class University {
+
+	public void displaySingleStudentDetails(Student s)
+	{
+		System.out.println("The Single Student Detail : ");
+		System.out.println("The Student ID : " + s.getId());
+		System.out.println("The Student ID : " + s.getName());
+		System.out.println("The Student ID : " + s.getContact());
+		System.out.println("The Student ID : " + s.getAddress());
+	}
+	
+	public void displayAllStudentsDetails(Student[] as) {
+		
+		
+		
+	}
+	
+}

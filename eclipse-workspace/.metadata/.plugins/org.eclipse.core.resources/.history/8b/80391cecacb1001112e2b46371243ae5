@@ -1,0 +1,23 @@
+package Com.Validator;
+
+import java.util.Scanner;
+import java.util.regex.Pattern;
+
+public class Validator {
+
+	static Scanner sc = new Scanner(System.in);
+	public static String accountName() {
+		boolean flag = true;
+		while (flag) {
+			System.out.print("	Enter Account Holder Name : ");
+			String acname = sc.nextLine();
+			if (Pattern.matches("[A-Za-z]+", acname)) {
+				flag =false;
+				return acname;
+			} else {
+				return "Invalid Name. Try Again";
+			}
+		}
+	}
+
+}

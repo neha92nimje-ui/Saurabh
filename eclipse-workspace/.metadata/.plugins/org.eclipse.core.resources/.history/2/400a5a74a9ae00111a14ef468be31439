@@ -1,0 +1,83 @@
+package ParkingLot;
+
+import ParkingService.*;
+import java.util.Scanner;
+
+import Module.*;
+
+public class ParkingLot implements ParkingServ {
+	Scanner sc = new Scanner(System.in);
+
+	static int j;
+	int count = 0;
+	Vehicle[] parkingSpaces;
+
+	@Override
+	public void addALLVehicles() {
+		System.out.print("	    ENTER THE NUMBER OF VEHICLES YOU WANT TO ADD : ");
+		j = sc.nextInt();
+		sc.nextLine();
+		parkingSpaces = new Vehicle[j];
+		for (int i = 1; i <= j; i++) {
+			Vehicle vehicle = new Vehicle();
+			System.out.println("	    ******************************************");
+			System.out.println("	    *         ADD VEHICLE INFORMATION        *");
+			System.out.println("	    ******************************************");
+			System.out.print("	    ENTER THE VEHICLE NUMBER : ");
+			String vn = sc.nextLine();
+			vehicle.setVehicleNumber(vn.toUpperCase());
+			System.out.print("	    ENTER THE OWNER NAME : ");
+			String on = sc.nextLine();
+			vehicle.setOwnerName(on.toUpperCase());
+			System.out.print("	    ENTER THE VEHICLE TYPE : ");
+			String vt = sc.nextLine();
+			vehicle.setVehicleType(vt.toUpperCase());
+			parkingSpaces[count] = vehicle;
+			count++;
+
+		}
+		System.out.println("	    VEHICLE ADDED SUCCESSFULLY.");
+	}
+
+	@Override
+	public void displayALLVehicles() {
+		for (int i = 0; i < parkingSpaces.length; i++) {
+
+			Vehicle v = parkingSpaces[i];
+			System.out.println("	    THE VEHICLE NUMBER : " + v.getVehicleNumber());
+			System.out.println("	    THE VEHICLE TYPE : " + v.getVehicleType());
+			System.out.println("	    THE OWNER NAME : " + v.getOwnerName());
+			System.out.println("	    ");
+		}
+
+	}
+
+	@Override
+	public void vehiclesByNumbers() {
+		System.out.println(" ");
+		System.out.print("	    ENTER THE VEHICLE NUMBER : ");
+		String inNumber = sc.nextLine();
+		int count = 0;
+		for (int i = 0; i < parkingSpaces.length; i++) {
+
+			Vehicle v = parkingSpaces[i];
+			if (inNumber.equals(v.getVehicleNumber())) {
+				System.out.println("	    ");
+				System.out.println("	    THE VEHICLE NUMBER : " + v.getVehicleNumber());
+				System.out.println("	    THE VEHICLE TYPE : " + v.getVehicleType());
+				System.out.println("	    THE OWNER NAME : " + v.getOwnerName());
+				count++;
+			}
+	}
+		if(count == 0) {
+			System.out.println("	    VEHICLE NOT FOUND...!!!!");
+		}
+	}
+
+	@Override
+	public void vehiclesByType() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

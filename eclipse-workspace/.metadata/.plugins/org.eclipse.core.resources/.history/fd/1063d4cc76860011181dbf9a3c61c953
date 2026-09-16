@@ -1,0 +1,23 @@
+package Com.StudentManagement_System;
+
+public class AdminController {
+	
+	public void setData() {
+		Student s = new Student();
+		s.rollno = 6483;
+		s.sname = "Bhushan Raut";
+		s.f.fid = 2478;
+		s.f.fname = "Nilesh Ugale";
+		s.f.b.bid = 76;
+		s.f.b.bname = "Morning Batch";
+		s.f.b.c.cid = 1;
+		s.f.b.c.cname = "Java Fullstack";		
+	}
+	
+	
+	public static void main(String[] args) {
+		AdminController AC = new AdminController();
+		System.out.println("The Student Management Details Are Differentiate in Four Diffrent Parts. \nBelow are The Details Section Wise \nPlease Check it Thank you!!");
+		System.out.println("The Student Name : "+ AC.setData().s.rollno);
+	}
+}

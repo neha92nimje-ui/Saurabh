@@ -1,0 +1,12 @@
+package Com.FileOperation;
+import java.io.*;
+import Com.Model.Account;
+public class FileOperation {
+	
+	public static void saveAccount(Account account) throws IOException{
+		FileWriter filewriter = new FileWriter("accounts.txt" , true);
+		BufferedWriter bufferedwriter = new BufferedWriter(filewriter);
+	}
+	
+	
+}

@@ -1,0 +1,15 @@
+package TryWithMultipleBlock;
+
+import java.util.Scanner;
+
+public class TryWithMultipleCatchBlock {
+
+	public static void main(String[] args) {
+		try (Scanner sc = new Scanner(System.in);) {
+			int i = 10;
+		}catch{
+			
+		}
+
+	}
+}

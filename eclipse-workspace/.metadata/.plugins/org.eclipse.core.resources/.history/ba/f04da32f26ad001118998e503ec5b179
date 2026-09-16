@@ -1,0 +1,48 @@
+package com.String;
+
+public class StringPractice {
+
+	// There Are Two way to create a String object First one is Literal way And
+	// another one is using new KeyWord
+
+	public static void main(String[] args) {
+
+		// 1st way
+
+		String str = "QWERTYUIOP"; // This is the Literal way
+
+		// 2nd Way
+
+		String str1 = new String("ASDFGHJKL");
+
+		System.out.println(str.concat(str1));
+		
+		String[] strarr = {"Saurabh" , "Sahil" , "Gauri" , "Ashwini" , "Nilima" };
+		
+		System.out.println(" ******* SubString Method *******");
+		System.out.println(str.substring(2));
+		System.out.println(" ******* SubSequence Method *******");
+		System.out.println(str.subSequence(4, 6));
+		System.out.println(" ******* Intern  Method *******");
+		System.out.println(str.intern());
+		System.out.println(" ******* Value of Method *******");
+		System.out.println(str.valueOf(false));
+		System.out.println(" ******* Compare to Method *******");
+		System.out.println(str.compareTo(str1));
+		System.out.println(" ******* Equals Method *******");
+		System.out.println(str.equals(str));
+		System.out.println(" ******* StartWithMethod *******");
+		System.out.println(str.startsWith(str));
+//		System.out.println(" *******SubString Method *******");
+//		System.out.println(str.substring(2));
+//		System.out.println(" *******SubString Method *******");
+//		System.out.println(str.substring(2));
+//		System.out.println(" *******SubString Method *******");
+//		System.out.println(str.substring(2));
+
+		
+	
+	
+	
+	}
+}

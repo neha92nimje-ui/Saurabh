@@ -1,0 +1,16 @@
+package com.College;
+
+public class University {
+
+	public void displaySingleStudentDetails(College c)
+	{
+		
+	}
+	
+	public void displayAllStudentsDetails(College c) {
+		
+		
+		
+	}
+	
+}

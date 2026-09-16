@@ -1,0 +1,92 @@
+package Com.Model;
+
+public class Account {
+	private long accNo = (long) (Math.random() * Math.pow(10, 8));
+	private String accHolderName;
+	private String address;
+	private String panNo;
+	private long aadharNo;
+	private long mobileNo;
+	private double balance;
+	private int pin;
+
+	public int getPin() {
+		return pin;
+	}
+
+	public void setPin(int pin) {
+		if(pin > 999 && pin < 10000)
+		this.pin = pin;
+	}
+
+	public long getAccNo() {
+		return accNo;
+	}
+
+	public String getAccHolderName() {
+		return accHolderName;
+	}
+
+	public void setAccHolderName(String accHolderName) {
+		this.accHolderName = accHolderName;
+	}
+
+	public String getAddress() {
+		return address;
+	}
+
+	public void setAddress(String address) {
+		this.address = address;
+	}
+
+	public String getPanNo() {
+		return panNo;
+	}
+
+	public void setPanNo(String panNo) {
+		this.panNo = panNo;
+	}
+
+	public long getAadharNo() {
+		return aadharNo;
+	}
+
+	public void setAadharNo(long aadharNo) {
+		if (aadharNo > 99999999999l && aadharNo < 1000000000000l) {
+			this.aadharNo = aadharNo;
+		} else {
+			System.out.println("Enter The Correct Information.");
+		}
+	}
+
+	public long getMobileNo() {
+		return mobileNo;
+	}
+
+	public void setMobileNo(long mobileNo) {
+		if (mobileNo > 6599999999l && mobileNo < 10000000000l) {
+			this.mobileNo = mobileNo;
+		} else {
+			System.out.println("Enter The Correct Information.");
+		}
+	}
+
+	public double getBalance() {
+		return balance;
+	}
+
+	public void setBalance(double balance) {
+		if(balance >= 2000){
+			this.balance = balance;
+			}else {
+				System.out.println("To Open an Account, Minimum Ammount Should be 2000.00 /-");
+			}
+	}
+
+	@Override
+	public String toString() {
+		return "Account [accNo=" + accNo + ", accHolderName=" + accHolderName + ", address=" + address + ", panNo="
+				+ panNo + ", aadharNo=" + aadharNo + ", mobileNo=" + mobileNo + ", balance=" + balance + "]";
+	}
+
+}

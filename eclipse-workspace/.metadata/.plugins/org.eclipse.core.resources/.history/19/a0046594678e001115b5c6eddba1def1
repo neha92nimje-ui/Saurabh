@@ -1,0 +1,11 @@
+package ProgramsOnIf;
+
+import java.util.Scanner;
+
+// Program to check Entered Character is in Uppercase or is in Lowercase
+public class Problem5 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+	}
+}

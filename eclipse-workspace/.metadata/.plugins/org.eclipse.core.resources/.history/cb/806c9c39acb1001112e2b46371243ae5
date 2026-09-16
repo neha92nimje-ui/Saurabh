@@ -1,0 +1,12 @@
+package Com.Validator;
+
+import java.util.Scanner;
+
+public class Validator {
+
+	static Scanner sc = new Scanner(System.in);
+	
+	
+	
+	
+}

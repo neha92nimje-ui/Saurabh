@@ -1,0 +1,16 @@
+package com.College;
+import com.Student.*;
+public class University {
+
+	public void displaySingleStudentDetails(Student s)
+	{
+		
+	}
+	
+	public void displayAllStudentsDetails(Student[] as) {
+		
+		
+		
+	}
+	
+}

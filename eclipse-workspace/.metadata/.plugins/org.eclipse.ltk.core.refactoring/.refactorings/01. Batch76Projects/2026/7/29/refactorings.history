@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;JavaBasicPrograms.Product1.java&apos; to &apos;Product12.java&apos;&#x0D;&#x0A;- Original project: &apos;Batch76Projects&apos;&#x0D;&#x0A;- Original element: &apos;JavaBasicPrograms.Product1.java&apos;&#x0D;&#x0A;- Renamed element: &apos;JavaBasicPrograms.Product12.java&apos;" description="Rename compilation unit &apos;Product1.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;JavaBasicPrograms{Product1.java" name="Product12.java" references="false" stamp="1784385789480" version="1.0"/>
+</session>

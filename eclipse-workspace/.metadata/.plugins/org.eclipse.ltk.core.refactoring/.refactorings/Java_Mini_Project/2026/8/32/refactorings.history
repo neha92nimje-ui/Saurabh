@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Smart_Home_Project.Temperature&apos; to &apos;SmartHome&apos;&#x0D;&#x0A;- Original project: &apos;Java_Mini_Project&apos;&#x0D;&#x0A;- Original element: &apos;Smart_Home_Project.Temperature&apos;&#x0D;&#x0A;- Renamed element: &apos;Smart_Home_Project.SmartHome&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Temperature&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Smart_Home_Project{Temperature.java[Temperature" matchStrategy="1" name="SmartHome" qualified="false" references="true" similarDeclarations="false" stamp="1785988117436" textual="false" version="1.0"/>
+</session>

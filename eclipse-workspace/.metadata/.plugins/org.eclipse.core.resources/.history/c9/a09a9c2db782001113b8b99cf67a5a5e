@@ -1,0 +1,40 @@
+package JavaBasicPrograms;
+
+public class Product12{
+
+int pid = 38284;
+String pname = "Fan";
+int price = 2000;
+
+
+public void displayOrder(){
+
+int Oid = 3824089;
+String Oname = "Bajaj Fan";
+String Cname = "Rohit Age";
+String Cadd = "Akurdi";
+
+//System.out.println("Order ID : "+ Oid + "\nOrder Name: "+Oname + "\nCustomer Name : "+ Cname + "n\Customer Address :"+ Cadd);
+
+}
+
+public void displayProduct(){
+
+Product12 p = new Product12();
+System.out.println("Product ID : "+ p.pid + "\nProduct Name: "+p.pname + "\nPrice : "+ p.price);
+
+}
+
+public static void main(String[] args){
+
+Product12 p1 = new Product12();
+System.out.println(p1.pid + p1.pname + p1.price);
+
+p1.displayProduct();
+p1.displayOrder();
+
+
+
+}
+
+}

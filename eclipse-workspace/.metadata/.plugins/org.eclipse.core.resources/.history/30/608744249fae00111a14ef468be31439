@@ -1,0 +1,85 @@
+package Controller;
+
+import java.util.Scanner;
+
+public class Controller {
+	static {
+		System.out.println("	 ================================================= ");
+		System.out.println("	 || WELCOME TO PARKING MANAGEMENT SYSTEM PROJEC || ");
+		System.out.println("	 ================================================= ");
+		System.out.println("	  ");
+		System.out.println("	               LOADING MAIN MENU......               ");
+		System.out.println("	                KINDLY WAIT......               ");
+		System.out.println("     ");
+	}
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		boolean flag = true;
+		while (flag) {
+
+			System.out.println("	     ========================================= ");
+			System.out.println("	    |       PARKING LOT MANAGEMENT SYSTEM     |");
+			System.out.println("	    |=========================================|");
+			System.out.println("	    |-----------------------------------------|");
+			System.out.println("	    |             1. ADD VEHICLE              |");
+			System.out.println("	    |-----------------------------------------|");
+			System.out.println("	    |     2. DISPLAY ALL PARKED VEHICLES      |");
+			System.out.println("	    |-----------------------------------------|");
+			System.out.println("	    |      3. SEARCH VEHICLES BY NUMBER       |");
+			System.out.println("	    |-----------------------------------------|");
+			System.out.println("	    |        4. COUNT VEHICLES BY TYPE        |");
+			System.out.println("	    |-----------------------------------------|");
+			System.out.println("	    |                 5. EXIT                 |");
+			System.out.println("	    |-----------------------------------------|");
+			System.out.println("	     ========================================= ");
+			System.out.println("");
+			System.out.print("	               SELECT THE OPTION : ");
+			int ch = sc.nextInt();
+
+			switch (ch) {
+			case 1:
+				System.out.println(1);
+				break;
+			case 2:
+				System.out.println(2);
+				break;
+			case 3:
+				System.out.println(3);
+				break;
+			case 4:
+				System.out.println(4);
+				break;
+			case 5:
+				System.out.println("	    EXIT SUCCESSFULLY !!!");
+				flag = false;
+				break;
+			default:
+				System.out.println(6);
+				break;
+			}
+			boolean flag1 = true;
+			while (flag1) {
+				if (flag == false) {
+					flag1 = false;
+				} else {
+					System.out.println("	    DO YOU WANT TO CONTINUE ?\n	    1. YES    2. NO");
+					int ch2 = sc.nextInt();
+					boolean flag3 = true;
+					while (flag3) {
+						if (ch2 == 1) {
+							flag1 = false;
+							flag3 = false;
+						} else if (ch2 == 2) {
+							System.out.println("	    EXIT SUCCESSFULLY !!!");
+							flag3 = false;
+						} else {
+							System.out.println("	    WRONG INPUT TRY AGAIN.");
+						}
+					}
+				}
+			}
+		}
+	}
+
+}

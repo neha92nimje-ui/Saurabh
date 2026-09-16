@@ -1,0 +1,17 @@
+package com.Controller;
+
+import java.util.Scanner;
+
+public class Controller {
+
+	Scanner sc = new Scanner(System.in);
+	public static void main(String[] args) {
+		
+		System.out.println("================================================================================");
+		System.out.println("====================== WELCOME TO EMPLOYEE MANAGEMENT APP ======================");
+		System.out.println("================================================================================");
+
+		System.out.println(" 1. Add Employee    | ");
+		
+	}
+}

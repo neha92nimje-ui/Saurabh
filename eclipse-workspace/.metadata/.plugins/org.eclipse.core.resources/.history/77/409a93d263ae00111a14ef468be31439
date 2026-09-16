@@ -1,0 +1,25 @@
+package ExceptionHandling;
+
+import java.util.Scanner;
+
+public class TryCatchFinally {
+	int num ;
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		try {
+			System.out.println("Enter The Number : ");
+			num = sc.nextInt();
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		
+		
+		
+		System.out.println("Enter Number is : " + num);
+		
+		
+	}
+}

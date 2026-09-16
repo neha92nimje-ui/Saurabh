@@ -1,0 +1,17 @@
+package Com.Service;
+
+import java.io.IOException;
+
+public interface RBI {
+	
+	void createAccount() throws IOException;
+	void displayAccountDetails();
+	void displayBalance();
+	void withdrawAmount();
+	void depositMoney();
+	void updateAccontDetails();
+	void showFileInformation() throws IOException;
+	void backupFile() throws IOException;
+	void deleteFile() throws IOException;
+	
+}

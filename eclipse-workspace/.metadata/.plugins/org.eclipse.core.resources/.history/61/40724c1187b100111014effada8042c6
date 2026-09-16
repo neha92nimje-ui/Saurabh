@@ -1,0 +1,21 @@
+package TryWithMultipleBlock;
+
+import java.util.Scanner;
+
+public class TryWithMultipleCatchBlock {
+
+	public static void main(String[] args) {
+		try (Scanner sc = new Scanner(System.in);) {
+			int i = 10;
+			System.out.print("Enter The Number : ");
+			int num = sc.nextInt();
+			System.out.println(i/num);
+			
+		} catch (NumberFormatException | ArithmeticException e) {
+			e.getMessage();
+			e.printStackTrace();
+			System.out.println(e);
+		}
+
+	}
+}

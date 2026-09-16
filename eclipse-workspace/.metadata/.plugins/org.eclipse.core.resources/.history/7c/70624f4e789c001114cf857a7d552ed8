@@ -1,0 +1,27 @@
+package OverridedProjects;
+
+import java.util.Scanner;
+
+public class Admin_Controller {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		Employee Developer = new Developer();
+		System.out.println("Enter The Developer Salary : ");
+		double DSalary = sc.nextDouble();
+
+		Employee Tester = new Developer();
+		System.out.println("Enter The Tester Salary : ");
+		double TSalary = sc.nextDouble();
+
+		Employee Manager = new Developer();
+		System.out.println("Enter The Manager Salary : ");
+		double MSalary = sc.nextDouble();
+
+		System.out.println("The Final Tester Salary : " + Tester.calculateSalary(TSalary));
+		System.out.println("The Final Developer Salary : " + Developer.calculateSalary(DSalary));
+		System.out.println("The Final Manager Salary : " + Manager.calculateSalary(MSalary));
+		sc.close();
+	}
+
+}

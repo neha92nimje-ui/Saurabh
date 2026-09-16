@@ -1,0 +1,48 @@
+package StaticExample;
+
+import java.util.Scanner;
+public class P2 {
+		public static void main(String[] args) {
+
+			Scanner sc = new Scanner(System.in);
+
+			System.out.println("Enter The Number : ");
+			int number = sc.nextInt();
+			
+			int i = 1;
+			int num = i;
+			int count = 0;
+			int sum = 0;
+			for( i = 1 ; i <= number ;i++) {
+			while (num != 0) {
+
+				int temp = num % 10;
+				count++;
+				num = num / 10;
+
+			}
+
+			while (num != 0) {
+				int power = 1;
+				int temp1 = num % 10;
+
+				for (int j = 1; i <= count; j++) {
+					power = power * temp1;
+
+				}
+
+				sum = sum + power;
+				num = num / 10;
+
+			}
+			
+			if (i == sum) {
+				System.out.println(i);
+
+		}
+}
+
+	}
+
+	
+

@@ -1,0 +1,9 @@
+package Module;
+
+public class Vehicle {
+
+	private String vehicleNumber;
+	private String ownerName;
+	private String vehicleType;
+	
+}

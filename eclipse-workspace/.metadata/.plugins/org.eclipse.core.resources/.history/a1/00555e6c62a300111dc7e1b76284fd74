@@ -1,0 +1,47 @@
+package StaticExample;
+
+import java.util.Scanner;
+
+public class P1 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+
+		System.out.println("Enter The Number : ");
+		int number = sc.nextInt();
+		int num = number;
+		int count = 0;
+		int sum = 0;
+
+		while (num != 0) {
+
+			int temp = num % 10;
+			count++;
+			num = num / 10;
+
+		}
+
+		while (num != 0) {
+			int power = 1;J
+			int temp1 = num % 10;
+
+			for (int i = 1; i <= count; i++) {
+				power = power * temp1;
+
+			}
+
+			sum = sum + power;
+			num = num / 10;
+
+		}
+
+		if (number == sum) {
+			System.out.println("The Given Number " + number + " is Armstrong Number.");
+		} else {
+			System.out.println("The Given Number " + number + " is not Armstrong Number.");
+		}
+
+	}
+
+}

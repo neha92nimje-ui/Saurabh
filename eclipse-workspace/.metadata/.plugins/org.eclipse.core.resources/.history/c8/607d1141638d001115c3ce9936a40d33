@@ -1,0 +1,12 @@
+package ProgramsOnIf;
+
+import java.util.Scanner;
+
+// Write A Programm To check Whether the number is greater than 100 or not 
+
+public class Problem1 {
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+	}
+}

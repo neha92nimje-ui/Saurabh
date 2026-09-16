@@ -1,0 +1,27 @@
+package com.Palindrome;
+
+import java.util.Scanner;
+
+public class PalindromeNumber {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter The Number : ");
+		int number = sc.nextInt();
+		int num = number;
+		int reverse = 0;
+		while (num != 0) {
+			int temp = num % 10;
+			reverse = reverse * 10 + temp;
+			num = num / 10;
+
+		}
+		if (num == number) {
+			System.out.println("The Given Number " + number + " is Palindrome number.");
+		} else {
+			System.out.println("The Given Number " + number + " is not Palindrome number.");
+		}
+	}
+
+}

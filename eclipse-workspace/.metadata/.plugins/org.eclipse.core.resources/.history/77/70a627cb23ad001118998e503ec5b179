@@ -1,0 +1,18 @@
+package com.String;
+
+import jav.util.*;
+public class StringPractice {
+
+	// There Are Two way to create a String object First one is Literal way And
+	// another one is using new KeyWord
+
+	// 1st way 
+	
+	String str = "QWERTYUIOP"; // This is the Literal way 
+	
+	// 2nd Way 
+	
+	String str1 = new String("ASDFGHJKL");
+
+	
+}
